@@ -1,7 +1,6 @@
 # TIPE – Monopoly   
 
-**Auteur :** Louis Fonteniaud  
-**École :** CentraleSupélec (TIPE 2024–2025)  
+**Auteur :** Louis Fonteniaud    
 
 ---
 
